@@ -1,0 +1,250 @@
+- category: ===PROLOGUE===
+  songs:
+  - name: '[JFA] Toccata and Fugue'
+    length: 63
+- category: ===PRELUDE===
+  songs:
+  - name: '[AA] Prelude'
+    length: 85
+  - name: '[JFA] Prelude'
+    length: 100
+  - name: '[T&T] Prelude'
+    length: 113
+  - name: '[AJ] Prelude'
+    length: 78
+- category: ===TRIAL===
+  songs:
+  - name: '[AA] Trial'
+    length: 119
+  - name: '[JFA] Trial'
+    length: 118
+  - name: '[T&T] Trial'
+    length: 156
+- category: ===LOGIC===
+  songs:
+  - name: '[AA] Logic and Tricks'
+    length: 166
+  - name: '[JFA] Tricks and Magic'
+    length: 83
+  - name: '[AJ] Trance Logic'
+    length: 119
+- category: ===SUSPENSE===
+  songs:
+  - name: '[AA] Suspense'
+    length: 101
+  - name: '[AJ] Suspense'
+    length: 54
+- category: ===CRISIS===
+  songs:
+  - name: '[JFA] Hotline of Fate'
+    length: 56
+  - name: '[DD] Illegality of Fate'
+    length: 142
+- category: ===DEBATE & ICE BREAKER===
+  songs:
+  - name: '[PLvsAA] Bright Debate'
+    length: 172
+- category: ===DETENTION CENTER===
+  songs:
+  - name: '[AA] Detention Center'
+    length: 119
+  - name: '[JFA] Detention Center'
+    length: 142
+  - name: '[T&T] Detention Center'
+    length: 150
+  - name: '[AJ] Detention Center'
+    length: 236
+- category: ===INVESTIGATION===
+  songs:
+  - name: '[AA] Investigation (Opening)'
+    length: 120
+  - name: '[AA] Investigation (Core)'
+    length: 131
+  - name: '[JFA] Investigation (Opening)'
+    length: 95
+  - name: '[JFA] Investigation (Middle)'
+    length: 115
+  - name: '[JFA] Investigation (Core)'
+    length: 123
+  - name: '[T&T] Investigation (Opening)'
+    length: 134
+  - name: '[T&T] Investigation (Core)'
+    length: 143
+  - name: '[AJ] Investigation (Opening)'
+    length: 98
+  - name: '[AJ] Investigation (Core)'
+    length: 76
+- category: ===QUESTIONING===
+  songs:
+  - name: '[AA] Questioning (Moderato)'
+    length: 114
+  - name: '[AA] Questioning (Allegro)'
+    length: 139
+  - name: '[AA] Questioning (Orchestra)'
+    length: 101
+  - name: '[JFA] Questioning (Moderato)'
+    length: 101
+  - name: '[JFA] Questioning (Allegro)'
+    length: 114
+  - name: '[T&T] Questioning (Moderato)'
+    length: 115
+  - name: '[T&T] Questioning (Allegro)'
+    length: 178
+  - name: '[AJ] Questioning (Moderato)'
+    length: 88
+  - name: '[AJ] Questioning (Allegro)'
+    length: 112
+- category: ===GIMMICKS===
+  songs:
+  - name: '[JFA] Psyche Locks'
+    length: 112
+  - name: '[AJ] Psyche Locks'
+    length: 88
+  - name: '[AJ] Perceive - Surging Eyes'
+    length: 67
+- category: ===OBJECTION===
+  songs:
+  - name: '[AA] Objection!'
+    length: 80
+  - name: '[JFA] Objection!'
+    length: 102
+  - name: '[T&T] Objection!'
+    length: 130
+  - name: '[AJ] Objection!'
+    length: 105
+- category: ===CONFESS THE TRUTH===
+  songs:
+  - name: '[AA] Confess The Truth'
+    length: 87
+  - name: '[JFA] Confess The Truth'
+    length: 107
+  - name: '[T&T] Confess The Truth'
+    length: 138
+  - name: '[AJ] Confess The Truth'
+    length: 65
+- category: ===LAST CHANCE===
+  songs:
+  - name: '[PLvsAA] Prelude to The Turnabout'
+    length: 196
+- category: ===PURSUIT===
+  songs:
+  - name: '[AA] Pursuit'
+    length: 105
+  - name: '[AA] Pursuit (Variation)'
+    length: 99
+  - name: '[JFA] Pursuit'
+    length: 90
+  - name: '[JFA] Pursuit (Variation)'
+    length: 83
+  - name: '[T&T] Pursuit'
+    length: 131
+  - name: '[T&T] Pursuit (Variation)'
+    length: 125
+  - name: '[T&T] Pursuit 2004'
+    length: 100
+  - name: '[T&T] Pursuit 2004 (Variation)'
+    length: 92
+  - name: '[AJ] Pursuit'
+    length: 119
+  - name: '[AJ] Pursuit (Variation)'
+    length: 119
+- category: ===REMINISCENCE===
+  songs:
+  - name: '[AA] True Evening of Grief'
+    length: 164
+  - name: '[AA] The DL-6 Incident'
+    length: 138
+  - name: '[AA] The SL-9 Incident'
+    length: 107
+  - name: '[JFA] The Steel Samurai''s Ballad'
+    length: 149
+  - name: '[JFA] Prosecutor''s Murmur - Until We Meet Again'
+    length: 63
+  - name: '[T&T] The Scenery of Dusky Bridge'
+    length: 139
+  - name: '[AJ] Forgotten Legend'
+    length: 154
+- category: ===VICTORY CELEBRATION===
+  songs:
+  - name: '[AA] Victory!'
+    length: 125
+  - name: '[JFA] Victory!'
+    length: 132
+  - name: '[T&T] Victory!'
+    length: 176
+  - name: '[AJ] Victory!'
+    length: 140
+- category: ===ENDINGS===
+  songs:
+  - name: '[AA] Ending'
+    length: 152
+  - name: '[AA] Ending (RftA)'
+    length: 299
+  - name: '[JFA] Ending'
+    length: 199
+  - name: '[T&T] Ending'
+    length: 252
+  - name: '[AJ] Ending'
+    length: 343
+- category: ===PEOPLE THEMES===
+  songs:
+  - name: '[AA] Blissful People'
+    length: 73
+  - name: '[JFA] Eccentric People'
+    length: 100
+  - name: '[JFA] More Blissful People'
+    length: 88
+  - name: '[AJ] Eccentric People'
+    length: 112
+- category: ===GENERAL THEMES===
+  songs:
+  - name: '[JFA] Berry Big Circus'
+    length: 154
+  - name: '[JFA] Kurain Village'
+    length: 116
+  - name: '[T&T] Hazakura Temple'
+    length: 173
+  - name: '[T&T] Lordly Tailor'
+    length: 203
+  - name: '[T&T] Tres Bien'
+    length: 120
+  - name: '[AJ] Drew Studio'
+    length: 209
+  - name: '[AJ] Kitaki Family'
+    length: 139
+  - name: '[AJ] The Guitar''s Serenade'
+    length: 106
+  - name: '[AJ] Solitary Confinement - Darkness'
+    length: 120
+  - name: '[AJ] Troupe Gramarye'
+    length: 123
+- category: ===CHARACTER THEMES===
+  songs:
+  - name: '[AA] Damon Gant - Swimming, Anyone'
+    length: 134
+  - name: '[AA] Dick Gumshoe - It''s Detective Gumshoe!'
+    length: 134
+  - name: '[AA] Ema Skye - Turnabout Sisters'
+    length: 119
+  - name: '[AJ] Ema Skye - Scientific Detective'
+    length: 95
+  - name: '[T&T] Furio Tigre - Swingin'' Tiger'
+    length: 118
+  - name: '[T&T] Furio Tigre - Tiger of Jazz'
+    length: 352
+  - name: '[T&T] Godot - The Fragrance of Dark Coffee'
+    length: 162
+- category: ===RINGTONES===
+  songs:
+  - name: '[JFA] Ringtone - Toccata and Fugue'
+    length: 22
+  - name: '[JFA] Ringtone - Phoenix'
+    length: 46
+  - name: '[T&T] Ringtone - Godot'
+    length: 81
+  - name: '[AJ] Ringtone - Guilty Love'
+    length: 33
+- category: ===RELAXING MOMENT===
+  songs:
+  - name: '[C] Also Sprach Brooks'
+    length: 122
