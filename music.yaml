@@ -1,250 +1,1154 @@
-- category: ===PROLOGUE===
+- category: === PROLOGUE ===
   songs:
   - name: '[JFA] Toccata and Fugue'
-    length: 63
-- category: ===PRELUDE===
+    length: 62.04  
+  - name: '[DR2] Welcome DANGAN IsLand!!'
+    length: 118.34
+  - name: '[DR3] Face of Face Off'
+    length: 110.84
+  - name: '[GT] The Beginning of the Night'
+    length: 215.07
+- category: === INTRO ===
   songs:
   - name: '[AA] Prelude'
-    length: 85
+    length: 84.74
   - name: '[JFA] Prelude'
-    length: 100
+    length: 99.15
   - name: '[T&T] Prelude'
-    length: 113
+    length: 112.03
   - name: '[AJ] Prelude'
-    length: 78
-- category: ===TRIAL===
+    length: 77.57
+  - name: '[DD] Prelude'
+    length: 176.23
+  - name: '[SoJ] Prelude (Japanifornia)'
+    length: 117.69
+  - name: '[SoJ] Prelude (Khura''in)'
+    length: 163.35
+  - name: '[PLvsAA] Prelude (English)'
+    length: 82.83
+  - name: '[PLvsAA] Prelude'
+    length: 200.4
+  - name: '[PLvsAA] Prelude to The Turnabout'
+    length: 195.1
+  - name: '[DGS] Prelude'
+    length: 128.41
+  - name: '[DGS] Prelude to the Adventure'
+    length: 124.31
+  - name: '[DGS2] Prelude'
+    length: 132.25
+  - name: '[DGS2] Prelude to Resolve'
+    length: 131.98
+  - name: '[DGS2] Prelude to the Blossoming Attorney'
+    length: 128.1
+  - name: '[DR] Mr. Monokuma''s Lesson'
+    length: 225.08  
+- category: === TRIAL ===
   songs:
   - name: '[AA] Trial'
-    length: 119
+    length: 118.6
   - name: '[JFA] Trial'
-    length: 118
+    length: 117.63
   - name: '[T&T] Trial'
-    length: 156
-- category: ===LOGIC===
-  songs:
-  - name: '[AA] Logic and Tricks'
-    length: 166
-  - name: '[JFA] Tricks and Magic'
-    length: 83
-  - name: '[AJ] Trance Logic'
-    length: 119
-- category: ===SUSPENSE===
-  songs:
-  - name: '[AA] Suspense'
-    length: 101
-  - name: '[AJ] Suspense'
-    length: 54
-- category: ===CRISIS===
-  songs:
-  - name: '[JFA] Hotline of Fate'
-    length: 56
-  - name: '[DD] Illegality of Fate'
-    length: 142
-- category: ===DEBATE & ICE BREAKER===
-  songs:
-  - name: '[PLvsAA] Bright Debate'
-    length: 172
-- category: ===DETENTION CENTER===
-  songs:
-  - name: '[AA] Detention Center'
-    length: 119
-  - name: '[JFA] Detention Center'
-    length: 142
-  - name: '[T&T] Detention Center'
-    length: 150
-  - name: '[AJ] Detention Center'
-    length: 236
-- category: ===INVESTIGATION===
+    length: 155.08
+  - name: '[AJ] Trial'
+    length: 137.05
+  - name: '[DD] Trial'
+    length: 177.03
+  - name: '[SoJ] Trial (Japanifornia)'
+    length: 150.67
+  - name: '[SoJ] Trial (Khura''in)'
+    length: 167.5
+  - name: '[AAI] Trial'
+    length: 300.08
+  - name: '[PLvsAA] Trial (English)'
+    length: 217.61
+  - name: '[PLvsAA] Trial'
+    length: 135.8
+  - name: '[PLvsAA] Trial (Finale)'
+    length: 156.07
+  - name: '[PLvsAA] The Final Witness'
+    length: 208.86
+  - name: '[DGS] Trial'
+    length: 215.84
+  - name: '[DGS2] Trial'
+    length: 191.26
+  - name: '[DR] Beautiful Dead'
+    length: 336.41
+  - name: '[DR2] Beautiful Ruin (Summer Salt)'
+    length: 227.56
+  - name: '[DRV3] Cool Morning'
+    length: 203.33
+  - name: '[DRV3] Beautiful Lie'
+    length: 259.45
+  - name: '[DRV3] Sudden Beautiful Lie'
+    length: 241.25  
+- category: === INVESTIGATION ===
   songs:
   - name: '[AA] Investigation (Opening)'
-    length: 120
+    length: 119.94
   - name: '[AA] Investigation (Core)'
-    length: 131
+    length: 130.62
   - name: '[JFA] Investigation (Opening)'
-    length: 95
+    length: 94.29
   - name: '[JFA] Investigation (Middle)'
-    length: 115
+    length: 114.53
   - name: '[JFA] Investigation (Core)'
-    length: 123
+    length: 122.58
   - name: '[T&T] Investigation (Opening)'
-    length: 134
+    length: 133.71
   - name: '[T&T] Investigation (Core)'
-    length: 143
+    length: 142.73
   - name: '[AJ] Investigation (Opening)'
-    length: 98
+    length: 97.23
   - name: '[AJ] Investigation (Core)'
-    length: 76
-- category: ===QUESTIONING===
+    length: 75.23
+  - name: '[DD] Investigation (Opening)'
+    length: 136.12
+  - name: '[DD] Investigation (Middle)'
+    length: 132.69
+  - name: '[DD] Investigation (Core)'
+    length: 190.54
+  - name: '[SoJ] Investigation (Opening - Japanifornia)'
+    length: 120.72
+  - name: '[SoJ] Investigation (Core - Japanifornia)'
+    length: 166.33
+  - name: '[SoJ] Investigation (Opening - Khura''in)'
+    length: 120.16
+  - name: '[SoJ] Investigation (Core - Khura''in)'
+    length: 146.55
+  - name: '[AAI] Investigation (Opening)'
+    length: 218.34
+  - name: '[AAI] Investigation (Crime Scene)'
+    length: 341.1
+  - name: '[AAI] Investigation (Middle)'
+    length: 198.57
+  - name: '[AAI] Investigation (Core)'
+    length: 181.01
+  - name: '[AAI2] Investigation (Opening)'
+    length: 189.47
+  - name: '[AAI2] Investigation (Crime Scene)'
+    length: 209.16
+  - name: '[AAI2] Investigation (Middle)'
+    length: 195.01
+  - name: '[AAI2] Investigation (Core)'
+    length: 215.51
+  - name: '[DGS] Investigation (Opening)'
+    length: 114.55
+  - name: '[DGS] Investigation (Core)'
+    length: 172.26
+  - name: '[DGS] Investigation (DLC)'
+    length: 237.04
+  - name: '[DR] BOX 15'
+    length: 244.67
+  - name: '[DR] BOX 16'
+    length: 331.71
+  - name: '[DR2] Ekoroshia'
+    length: 424.13
+  - name: '[DR2] Suguikoroshia'
+    length: 159.07
+  - name: '[DRV3] Despair Searching'
+    length: 263.62
+  - name: '[DRV3] Hope Searching'
+    length: 501.62
+  - name: '[P4] Secret Base'
+    length: 150.19
+  - name: '[999] Extreme Extrication'
+    length: 214.08
+  - name: '[999] Imaginary'
+    length: 186.08
+- category: === DETENTION CENTER ===
+  songs:
+  - name: '[AA] Detention Center'
+    length: 118.83
+  - name: '[JFA] Detention Center'
+    length: 141.17
+  - name: '[T&T] Detention Center'
+    length: 149.39
+  - name: '[AJ] Detention Center'
+    length: 235.83
+  - name: '[DD] Detention Center'
+    length: 116.64
+  - name: '[SoJ] Detention Center (Japanifornia)'
+    length: 134.83
+  - name: '[SoJ] Detention Center (Khura''in)'
+    length: 126.39
+  - name: '[DGS] Detention Center'
+    length: 175.78
+- category: === DEBATE ===
+  songs:
+  - name: '[PLvsAA] Bright Debate'
+    length: 171.5
+  - name: '[PLvsAA] Gentlemen''s Debate'
+    length: 152.53
+  - name: '[PLvsAA] Gentlemen''s Deductions'
+    length: 128.15
+  - name: '[PLvsAA] Confrontation'
+    length: 212.69
+  - name: '[DGS] Reasoning Battle - Start'
+    length: 150.68
+  - name: '[DGS] Reasoning Battle - Defeat'
+    length: 144.46
+  - name: '[DGS] Joint Reasoning (Type A)'
+    length: 123.06
+  - name: '[DGS] Joint Reasoning (Type A-2)'
+    length: 98.96
+  - name: '[DGS] Joint Reasoning (Type B)'
+    length: 126.06
+  - name: '[DGS] Joint Reasoning (Type C)'
+    length: 125.13
+  - name: '[DGS] Joint Reasoning (Type C-2)'
+    length: 114.87
+  - name: '[DGS2] Partners - The Game is Afoot!'
+    length: 199.26
+  - name: '[DGS2] Partners - The Game is Afoot! (No Intro)'
+    length: 218.57
+  - name: '[DGS2] Partners - The Game is Afoot! (DLC)'
+    length: 199.52
+  - name: '[DGS2] Partners - A Reasoning Battle'
+    length: 193.28
+  - name: '[DR] Trial Underground'
+    length: 108.1
+  - name: '[DR] Discussion -BREAK-'
+    length: 235.66
+  - name: '[DR2] Discussion -HEAT UP- [8bit]'
+    length: 91.77
+  - name: '[DR2] Discussion -HEAT UP-'
+    length: 203.53
+  - name: '[DR2] Discussion -HOPE VS DESPAIR-'
+    length: 200.73
+  - name: '[DRV3] Discussion -BREAK-'
+    length: 175.19
+  - name: '[DRV3] Discussion -HEAT UP-'
+    length: 302.25
+  - name: '[DRV3] Discussion -HOPE VS DESPAIR-'
+    length: 200.7
+  - name: '[DRV3] Discussion -PANIC-'
+    length: 174.05
+  - name: '[DRV3] Discussion -PERJURY-'
+    length: 173.97
+  - name: '[DRV3] Discussion -SCRUM-'
+    length: 297.65  
+  - name: '[P4] Mist'
+    length: 235.74
+- category: === LOGIC ===
+  songs:
+  - name: '[AA] Logic and Tricks'
+    length: 165.94
+  - name: '[JFA] Tricks and Magic'
+    length: 82.49
+  - name: '[AJ] Trance Logic'
+    length: 118.2
+  - name: '[DD] Logic Trinity'
+    length: 138.5
+  - name: '[SoJ] Logic Construct'
+    length: 190.02
+  - name: '[AAI] Tricks and Gimmicks'
+    length: 181.95
+  - name: '[AAI] Tricks and Baroque'
+    length: 167.3
+  - name: '[AAI2] Trick Analyze'
+    length: 138.84
+  - name: '[AAI2] Trick Break'
+    length: 172.85
+  - name: '[PLvsAA] Logic and Tricks'
+    length: 226.59
+  - name: '[PLvsAA] Logic and Baroque'
+    length: 148.34
+  - name: '[PLvsAA] Magic Logic'
+    length: 46.64
+  - name: '[PLvsAA] Solve the Puzzle'
+    length: 171.51
+  - name: '[PLvsAA] Omen'
+    length: 109.84
+  - name: '[DGS] Logic and Tricks'
+    length: 138.08
+  - name: '[DGS] Deduction - Beyond the Logic'
+    length: 149.53
+  - name: '[DR] Class Trial Dawn Edition'
+    length: 373.35
+  - name: '[DR] New World Order'
+    length: 284.32
+  - name: '[DR] Climax Reasoning'
+    length: 249.14
+  - name: '[DR2] Alter Ego''s New World'
+    length: 101.96  
+  - name: '[DRV3] New World Order'
+    length: 255.11
+  - name: '[DRV3] New Classmate of the Dead'
+    length: 208.77 
+  - name: '[DRV3] Climax Reasoning'
+    length: 330.59 
+  - name: '[DR3] Old World Order'
+    length: 131.98
+  - name: '[DR3] FUTURE VERSUS'
+    length: 118.81
+  - name: '[999] Digital Root'
+    length: 291.06
+  - name: '[GT] 4 Minutes Before Death'
+    length: 127.07
+  - name: '[GT] Complication'
+    length: 157.08
+- category: === SUSPENSE ===
+  songs:
+  - name: '[AA] Suspense'
+    length: 100.86
+  - name: '[AJ] Suspense'
+    length: 53.49
+  - name: '[DD] Suspense'
+    length: 88.51
+  - name: '[PLvsAA] Suspense (English)'
+    length: 199.05
+  - name: '[PLvsAA] Suspense'
+    length: 99.24
+  - name: '[PLvsAA] Suspense (Layton)'
+    length: 178.96
+  - name: '[PLvsAA] An Uneasy Atmosphere'
+    length: 154.6
+  - name: '[PLvsAA] Doubt and Suspicion'
+    length: 125.5
+  - name: '[PLvsAA] Rising Tensions'
+    length: 130.57
+  - name: '[PLvsAA] Rescue and Retribution'
+    length: 87.53
+  - name: '[DGS] Suspense'
+    length: 161.85
+  - name: '[DGS] Suspense (Variation)'
+    length: 99.24
+  - name: '[DGS] Omen'
+    length: 86.98  
+  - name: '[DR] All All Apologies'
+    length: 276.64
+  - name: '[DR] DISTRUST'
+    length: 196.53
+  - name: '[DR] Junk Food for a Dashing Youth'
+    length: 257.26
+  - name: '[DR] Weekly Despair Magazine'
+    length: 171.97
+  - name: '[DR2] A Dead End to the Ocean''s Aroma'
+    length: 122.08
+  - name: '[P4] Omen'
+    length: 53.78
+  - name: '[GT] Trauma'
+    length: 134.07
+- category: === CRISIS ===
+  songs:
+  - name: '[JFA] Hotline of Fate'
+    length: 55.52
+  - name: '[DD] Illegality of Fate'
+    length: 141.72
+  - name: '[AAI] Crisis of Fate'
+    length: 156.3
+  - name: '[AAI2] Trifle of Fate'
+    length: 140.44
+  - name: '[PLvsAA] A Pinch of Trouble'
+    length: 128.27
+  - name: '[DGS] Trial in Disarray'
+    length: 195.6  
+  - name: '[DR] Living to the Fullest'
+    length: 261.7
+  - name: '[DR2] Mr. Monokuma''s Extracurricular Lesson'
+    length: 170.69
+  - name: '[DR2] Tropical Despair'
+    length: 201.59
+  - name: '[DRV3] EXISAL TRIBE'
+    length: 275.11
+  - name: '[DR3] Doomsday Machine'
+    length: 150.26  
+  - name: '[P3] Calamity'
+    length: 92.27
+  - name: '[P3] Shadow'
+    length: 163.82
+  - name: '[P4] ZONE TIME'
+    length: 92.79
+  - name: '[999] Foreboding'
+    length: 195.06
+  - name: '[VLR] Ambidexterity'
+    length: 276.38  
+  - name: '[GT] 4 Minutes Before Death (Variation)'
+    length: 103.06
+- category: === TESTIMONY ===
   songs:
   - name: '[AA] Questioning (Moderato)'
-    length: 114
+    length: 113.96
   - name: '[AA] Questioning (Allegro)'
-    length: 139
+    length: 138.1
   - name: '[AA] Questioning (Orchestra)'
-    length: 101
+    length: 100.37
   - name: '[JFA] Questioning (Moderato)'
-    length: 101
+    length: 100.27
   - name: '[JFA] Questioning (Allegro)'
-    length: 114
+    length: 113.09
   - name: '[T&T] Questioning (Moderato)'
-    length: 115
+    length: 114.44
   - name: '[T&T] Questioning (Allegro)'
-    length: 178
+    length: 177.45
   - name: '[AJ] Questioning (Moderato)'
-    length: 88
+    length: 87.32
   - name: '[AJ] Questioning (Allegro)'
-    length: 112
-- category: ===GIMMICKS===
-  songs:
-  - name: '[JFA] Psyche Locks'
-    length: 112
-  - name: '[AJ] Psyche Locks'
-    length: 88
-  - name: '[AJ] Perceive - Surging Eyes'
-    length: 67
-- category: ===OBJECTION===
+    length: 111.92
+  - name: '[DD] Questioning (Moderato)'
+    length: 139.61
+  - name: '[DD] Questioning (Allegro)'
+    length: 141.74
+  - name: '[SoJ] Questioning (Moderato)'
+    length: 145.11
+  - name: '[SoJ] Questioning (Allegro)'
+    length: 155.96
+  - name: '[AAI] Confrontation (Moderato)'
+    length: 220.16
+  - name: '[AAI] Confrontation (Allegro)'
+    length: 202.53
+  - name: '[AAI] Confrontation (Presto)'
+    length: 203.33
+  - name: '[AAI2] Confrontation (Moderato)'
+    length: 196.85
+  - name: '[AAI2] Confrontation (Allegro)'
+    length: 178.19
+  - name: '[AAI2] Confrontation (Presto)'
+    length: 139.07
+  - name: '[PLvsAA] Questioning (Moderato - English)'
+    length: 187.01
+  - name: '[PLvsAA] Questioning (Allegro - English)'
+    length: 221.08
+  - name: '[PLvsAA] Questioning (Moderato)'
+    length: 171.24
+  - name: '[PLvsAA] Questioning (Allegro)'
+    length: 171.07
+  - name: '[DGS] Questioning (Moderato)'
+    length: 137.38
+  - name: '[DGS] Questioning (Allegro)'
+    length: 177.19
+- category: === OBJECTION ===
   songs:
   - name: '[AA] Objection!'
-    length: 80
+    length: 79.75
   - name: '[JFA] Objection!'
-    length: 102
+    length: 101.9
   - name: '[T&T] Objection!'
-    length: 130
+    length: 129.52
   - name: '[AJ] Objection!'
-    length: 105
-- category: ===CONFESS THE TRUTH===
-  songs:
-  - name: '[AA] Confess The Truth'
-    length: 87
-  - name: '[JFA] Confess The Truth'
-    length: 107
-  - name: '[T&T] Confess The Truth'
-    length: 138
-  - name: '[AJ] Confess The Truth'
-    length: 65
-- category: ===LAST CHANCE===
-  songs:
-  - name: '[PLvsAA] Prelude to The Turnabout'
-    length: 196
-- category: ===PURSUIT===
+    length: 104.61
+  - name: '[DD] Objection! (Phoenix)'
+    length: 154.72
+  - name: '[DD] Objection! (Apollo)'
+    length: 226.55
+  - name: '[DD] Objection! (Athena)'
+    length: 177.25
+  - name: '[SoJ] Objection! (Phoenix)'
+    length: 189.13
+  - name: '[SoJ] Objection! (Apollo)'
+    length: 212.4
+  - name: '[SoJ] Objection! (Athena)'
+    length: 226.79
+  - name: '[AAI] Objection!'
+    length: 191.44
+  - name: '[AAI2] Objection!'
+    length: 214.84
+  - name: '[PLvsAA] Objection! (English)'
+    length: 127.69
+  - name: '[PLvsAA] Objection!'
+    length: 170.39
+  - name: '[DGS] Objection!'
+    length: 117.41
+  - name: '[DGS] Objection! (DLC)'
+    length: 195.62
+  - name: '[DGS2] Objection! (Ryutaro)'
+    length: 131.38  
+  - name: '[DR] Class Trial Turbulent Edition'
+    length: 232.68
+  - name: '[DR2] Class Trial Odd Edition'
+    length: 279.49  
+  - name: '[DRV3] Class Trial Cosmic Edition'
+    length: 365.37
+  - name: '[P4AU] Yukari Takeba - Pink Sniper'
+    length: 177.82
+- category: === PURSUIT ===
   songs:
   - name: '[AA] Pursuit'
-    length: 105
+    length: 104.98
   - name: '[AA] Pursuit (Variation)'
-    length: 99
+    length: 98.41
   - name: '[JFA] Pursuit'
-    length: 90
+    length: 89.34
   - name: '[JFA] Pursuit (Variation)'
-    length: 83
+    length: 82.8
   - name: '[T&T] Pursuit'
-    length: 131
+    length: 130.71
   - name: '[T&T] Pursuit (Variation)'
-    length: 125
+    length: 124.17
   - name: '[T&T] Pursuit 2004'
-    length: 100
+    length: 99.15
   - name: '[T&T] Pursuit 2004 (Variation)'
-    length: 92
+    length: 91.53
   - name: '[AJ] Pursuit'
-    length: 119
+    length: 118.74
   - name: '[AJ] Pursuit (Variation)'
-    length: 119
-- category: ===REMINISCENCE===
+    length: 118.71
+  - name: '[DD] Pursuit'
+    length: 165.58
+  - name: '[DD] Pursuit (Variation)'
+    length: 155.19
+  - name: '[SoJ] Pursuit'
+    length: 185.11
+  - name: '[SoJ] Pursuit (Variation)'
+    length: 181.7
+  - name: '[AAI] Pursuit'
+    length: 214.02
+  - name: '[AAI] Pursuit (Variation)'
+    length: 206.07
+  - name: '[AAI2] Pursuit'
+    length: 181.95
+  - name: '[AAI2] Pursuit (Variation)'
+    length: 161.39
+  - name: '[PLvsAA] Pursuit (English)'
+    length: 113.74
+  - name: '[PLvsAA] Pursuit'
+    length: 189.24
+  - name: '[DGS] Pursuit'
+    length: 208.87
+  - name: '[DGS] Pursuit (Variation)'
+    length: 156.43
+  - name: '[DGS2] Pursuit'
+    length: 129.9
+  - name: '[DGS2] Pursuit (Overture)'
+    length: 138.54  
+  - name: '[DR] Class Trial Solar Edition'
+    length: 280.3  
+  - name: '[DR2] Class Trial Future Edition'
+    length: 123.75
+  - name: '[DRV3] Class Trial Solar Edition'
+    length: 280.99  
+  - name: '[DRV3] Class Trial Revival Edition'
+    length: 247.91
+  - name: '[DRV3] Class Trial Revival Edition (Variation)'
+    length: 174.05  
+  - name: '[DR3] Future''s Challenge'
+    length: 126.13
+  - name: '[DR3] High Speed Action'
+    length: 97.16
+- category: === THE TRUTH ===
+  songs:
+  - name: '[AA] Confess The Truth'
+    length: 86.81
+  - name: '[JFA] Confess The Truth'
+    length: 106.77
+  - name: '[T&T] Confess The Truth'
+    length: 137.22
+  - name: '[AJ] Confess The Truth'
+    length: 64.83
+  - name: '[DD] Confess The Truth'
+    length: 142.62
+  - name: '[SoJ] Confess The Truth'
+    length: 211.15
+  - name: '[AAI] Confess The Truth'
+    length: 166.25
+  - name: '[AAI2] Confess The Truth'
+    length: 196.11
+  - name: '[PLvsAA] Confess The Truth (English)'
+    length: 176.16
+  - name: '[PLvsAA] Confess the Truth'
+    length: 232.64
+  - name: '[DGS] Confess The Truth'
+    length: 199.97
+  - name: '[DGS] Confess The Truth (DLC)'
+    length: 274.54
+  - name: '[DGS] Confess The Truth (DLC) (Variation)'
+    length: 241.1
+  - name: '[DR] Climax Return'
+    length: 131.09
+- category: === REMINISCENCE ===
   songs:
   - name: '[AA] True Evening of Grief'
-    length: 164
+    length: 163.84
   - name: '[AA] The DL-6 Incident'
-    length: 138
+    length: 137.17
   - name: '[AA] The SL-9 Incident'
-    length: 107
+    length: 106.94
+  - name: '[JFA] Scars Carved by Fire'
+    length: 164.67
+  - name: '[JFA] True Pain'
+    length: 166.51
   - name: '[JFA] The Steel Samurai''s Ballad'
-    length: 149
+    length: 148.28
   - name: '[JFA] Prosecutor''s Murmur - Until We Meet Again'
-    length: 63
+    length: 62.05
+  - name: '[T&T] I Blame You, Dear'
+    length: 186.35
   - name: '[T&T] The Scenery of Dusky Bridge'
-    length: 139
+    length: 138.63
+  - name: '[T&T] The Bitter Taste of Truth'
+    length: 170.69
+  - name: '[AJ] An Injured Fox'
+    length: 153.88
+  - name: '[AJ] A Fate Smeared by Tricks and Gadgets'
+    length: 146.04
   - name: '[AJ] Forgotten Legend'
-    length: 154
-- category: ===VICTORY CELEBRATION===
-  songs:
-  - name: '[AA] Victory!'
-    length: 125
-  - name: '[JFA] Victory!'
-    length: 132
-  - name: '[T&T] Victory!'
-    length: 176
-  - name: '[AJ] Victory!'
-    length: 140
-- category: ===ENDINGS===
+    length: 153.8
+  - name: '[DD] Wandering Heart'
+    length: 156.96
+  - name: '[DD] A Sad Memory'
+    length: 212.4
+  - name: '[DD] Departure from Regret'
+    length: 148.27
+  - name: '[SoJ] Each of Their Feelings'
+    length: 229.34
+  - name: '[SoJ] A Cornered Heart'
+    length: 164.79
+  - name: '[SoJ] Inherited Hopes'
+    length: 172.56
+  - name: '[AAI] False Relations'
+    length: 184.08
+  - name: '[AAI] The KG-8 Incident'
+    length: 138.33
+  - name: '[AAI] Torn Apart Countries'
+    length: 230.54
+  - name: '[AAI2] The IS-7 Incident'
+    length: 258.63
+  - name: '[AAI2] The Girl''s Lost Memories'
+    length: 199.43
+  - name: '[AAI2] The Fall of the House of Lang'
+    length: 193.24
+  - name: '[PLvsAA] A Quiet Moment'
+    length: 131.37
+  - name: '[PLvsAA] Bewitched Fate'
+    length: 176.57
+  - name: '[PLvsAA] Twilight Memories'
+    length: 185.67
+  - name: '[DGS] Ryunosuke''s Memories'
+    length: 134.94
+  - name: '[DGS] Hate the Sins, Not the Sinner'
+    length: 200.7
+  - name: '[DGS] Vanished Fairy'
+    length: 183.19
+  - name: '[DGS] An Ashen Dance'
+    length: 126.33
+  - name: '[DGS] Serenade'
+    length: 154.57
+  - name: '[DGS2] A Farewell - His Last Bow'
+    length: 87.66
+  - name: '[DGS2] At Ambition''s End'
+    length: 212.84
+  - name: '[DGS2] The Gate to the Truth'
+    length: 165.82  
+  - name: '[DR] Desire for Execution'
+    length: 220.74
+  - name: '[DR] Welcome Despair School'
+    length: 178.55
+  - name: '[DR3] Accidental Tragedy'
+    length: 133.99
+  - name: '[DR3] BAD END'
+    length: 124.24
+  - name: '[999] Morphogenetic Sorrow'
+    length: 295.06
+  - name: '[VLR] Blue Bird Lamentation'
+    length: 193.99  
+- category: === ENDING ===
   songs:
   - name: '[AA] Ending'
-    length: 152
+    length: 151.3
   - name: '[AA] Ending (RftA)'
-    length: 299
+    length: 298.58
   - name: '[JFA] Ending'
-    length: 199
+    length: 198.21
   - name: '[T&T] Ending'
-    length: 252
+    length: 251.24
   - name: '[AJ] Ending'
-    length: 343
-- category: ===PEOPLE THEMES===
+    length: 342.53
+  - name: '[DD] Ending'
+    length: 664.76
+  - name: '[SoJ] Ending'
+    length: 461.16
+  - name: '[AAI] Ending'
+    length: 295.54
+  - name: '[AAI] Epilogue'
+    length: 222.49
+  - name: '[AAI2] Ending'
+    length: 263.24
+  - name: '[AAI2] Epilogue'
+    length: 238.22
+  - name: '[PLvsAA] Verdict (Witch Trial)'
+    length: 34.97
+  - name: '[PLvsAA] Ending'
+    length: 360.68
+  - name: '[PLvsAA] Epilogue'
+    length: 150.94
+  - name: '[DGS] Closing Suite'
+    length: 429.56
+  - name: '[DGS] Verdict'
+    length: 295.61
+  - name: '[DGS] Verdict (DLC)'
+    length: 264.77
+  - name: '[DGS] Ending'
+    length: 348.7
+  - name: '[DGS2] Closing Suite'
+    length: 528.01
+  - name: '[DGS2] Ending'
+    length: 286.88
+  - name: '[DR2] Let Us Sing of a Hollow Victory'
+    length: 141.25
+  - name: '[DRV3] Sing of a Hollow Truth'
+    length: 175.93
+- category: === EXECUTIONS ===
   songs:
-  - name: '[AA] Blissful People'
-    length: 73
-  - name: '[JFA] Eccentric People'
-    length: 100
-  - name: '[JFA] More Blissful People'
-    length: 88
-  - name: '[AJ] Eccentric People'
-    length: 112
-- category: ===GENERAL THEMES===
+  - name: '[DR] Punishment Rocket'
+    length: 54.92
+  - name: '[DR] Supplementary Lessons for the Unlucky'
+    length: 104.34
+  - name: '[DR] Super High School''s Desperate Punishment'
+    length: 78.01
+  - name: '[DR2] Punishment feat. The Last High King'
+    length: 85.48
+  - name: '[DRV3] The Flea Waltz'
+    length: 110.81
+- category: === VICTORY ===
+  songs:
+  - name: '[AA] Victory!'
+    length: 124.46
+  - name: '[JFA] Victory!'
+    length: 131.93
+  - name: '[T&T] Victory!'
+    length: 175.92
+  - name: '[AJ] Victory!'
+    length: 139.36
+  - name: '[DD] Victory!'
+    length: 122.72
+  - name: '[SoJ] Victory!'
+    length: 230.37
+  - name: '[AAI] Victory!'
+    length: 166.85
+  - name: '[AAI2] Victory!'
+    length: 180.01
+  - name: '[PLvsAA] Victory! (English)'
+    length: 176.59
+  - name: '[PLvsAA] Victory!'
+    length: 132.9
+  - name: '[DGS] Victory!'
+    length: 159.94
+  - name: '[DGS2] Victory!'
+    length: 155.67
+  - name: '[DGS2] Victory! (DLC)'
+    length: 200.97
+- category: === GENERAL THEMES ===
   songs:
   - name: '[JFA] Berry Big Circus'
-    length: 154
+    length: 153.62
   - name: '[JFA] Kurain Village'
-    length: 116
+    length: 115.53
   - name: '[T&T] Hazakura Temple'
-    length: 173
+    length: 172.23
   - name: '[T&T] Lordly Tailor'
-    length: 203
+    length: 202.78
   - name: '[T&T] Tres Bien'
-    length: 120
+    length: 119.45
   - name: '[AJ] Drew Studio'
-    length: 209
+    length: 208.9
   - name: '[AJ] Kitaki Family'
-    length: 139
+    length: 138.82
   - name: '[AJ] The Guitar''s Serenade'
-    length: 106
+    length: 105.19
   - name: '[AJ] Solitary Confinement - Darkness'
-    length: 120
+    length: 119.99
   - name: '[AJ] Troupe Gramarye'
-    length: 123
-- category: ===CHARACTER THEMES===
+    length: 122.78
+  - name: '[AAI] Two Embassies - The Lands of the Butterfly and the Flower'
+    length: 168.81
+  - name: '[AAI] Yatagarasu - The Gentleman Thief Who Dances in the Black Night'
+    length: 175.83
+  - name: '[AAI2] Bonds - A Heart That Believes'
+    length: 237.68
+  - name: '[AAI2] Prosecutorial Investigation Committee - Rigorous Justice'
+    length: 214.08
+  - name: '[AAI2] The Great Moozilla'
+    length: 192.78
+  - name: '[AAI2] Zheng Fa - Land of the Phoenix'
+    length: 238.17
+  - name: '[DD] Themis Legal Academy - Our Precious School'
+    length: 152.89
+  - name: '[DD] The Dark Age of the Law'
+    length: 230.96
+  - name: '[DD] Nine-Tails Vale - Home of the Youkai'
+    length: 180.19
+  - name: '[DD] Robot Laboratory - Unerasable Past'
+    length: 244.0
+  - name: '[DD] Amazing Nine-Tails'
+    length: 183.71
+  - name: '[DD] The Legend of Tenma Taro'
+    length: 152.38
+  - name: '[DD] Shipshape Aquarium - A Refreshing Sea'
+    length: 192.51
+  - name: '[SoJ] Audience Chamber'
+    length: 224.34
+  - name: '[SoJ] Fourteen Years Ago'
+    length: 136.38
+  - name: '[SoJ] It''s show time!'
+    length: 104.98
+  - name: '[SoJ] Khura''inese Towns'
+    length: 214.42
+  - name: '[SoJ] Kurain Village'
+    length: 119.42
+  - name: '[SoJ] Troupe Gramarye'
+    length: 123.38
+  - name: '[SoJ] Courtroom Revolution'
+    length: 237.79
+  - name: '[SoJ] Sanctuary'
+    length: 205.55
+  - name: '[SoJ] The Woman Freed'
+    length: 213.57
+  - name: '[SoJ] Will You Marry Me'
+    length: 111.04
+  - name: '[PLvsAA] A Mysterious Tale'
+    length: 197.7
+  - name: '[PLvsAA] Ink Workshop'
+    length: 134.09
+  - name: '[PLvsAA] Labyrinthia at Day'
+    length: 175.16
+  - name: '[PLvsAA] Labyrinthia at Night'
+    length: 171.2
+  - name: '[PLvsAA] Labyrinthian Festival'
+    length: 200.69
+  - name: '[PLvsAA] Labyrinthian Ruins'
+    length: 188.8
+  - name: '[PLvsAA] London - Walking Through the Town'
+    length: 155.62
+  - name: '[PLvsAA] Mysterious Witness'
+    length: 35.69
+  - name: '[PLvsAA] Rainy Night'
+    length: 53.06
+  - name: '[PLvsAA] The Courtroom''s Magician'
+    length: 230.64
+  - name: '[PLvsAA] The Storyteller''s Chambers'
+    length: 130.94
+  - name: '[PLvsAA] The Storyteller''s Garden'
+    length: 112.84
+  - name: '[PLvsAA] The Storyteller''s Tower'
+    length: 134.3
+  - name: '[PLvsAA] The Town''s History'
+    length: 139.57
+  - name: '[PLvsAA] The Witch''s Forest'
+    length: 128.31
+  - name: '[PLvsAA] The Witches'' Theme'
+    length: 76.88
+  - name: '[DGS] 221B Bakers Street'
+    length: 145.17
+  - name: '[DGS] London - Business as Usual'
+    length: 137.41
+  - name: '[DGS] London - The Foggy City'
+    length: 200.25
+  - name: '[DGS] Witnesses Enter the Court'
+    length: 147.34
+  - name: '[DGS2] Each One''s Path'
+    length: 194.46
+  - name: '[DGS2] The Great Exhibition'
+    length: 127.93
+  - name: '[DGS2] The Great Exhibition (DLC)'
+    length: 83.22
+  - name: '[DGS2] The Wax Museum'
+    length: 143.6
+  - name: '[DGS2] The Prison Guards'
+    length: 132.15
+- category: === PEOPLE THEMES ===
   songs:
+  - name: '[AA] Blissful People'
+    length: 72.88
+  - name: '[JFA] Eccentric People'
+    length: 99.42
+  - name: '[JFA] More Blissful People'
+    length: 87.72
+  - name: '[AJ] Eccentric People'
+    length: 111.72
+  - name: '[DD] Difficult People'
+    length: 125.88
+  - name: '[DD] Lively People'
+    length: 152.55
+  - name: '[DD] Suspicious People'
+    length: 126.9
+  - name: '[SoJ] Cheerful People'
+    length: 99.55
+  - name: '[SoJ] Strange People'
+    length: 137.0
+  - name: '[AAI] Doubted People'
+    length: 192.75
+  - name: '[AAI] Interesting People'
+    length: 155.33
+  - name: '[AAI] Noisy People'
+    length: 99.55
+  - name: '[AAI2] Restless People'
+    length: 169.78
+  - name: '[AAI2] Strange People'
+    length: 178.36
+  - name: '[PLvsAA] Naive People'
+    length: 100.91
+  - name: '[PLvsAA] Fiery People'
+    length: 149.45
+  - name: '[DGS] Elegant People'
+    length: 108.45
+  - name: '[DGS] Lively People'
+    length: 107.6
+  - name: '[DGS] Russian People'
+    length: 120.9
+  - name: '[DGS] Seafaring People'
+    length: 134.24
+  - name: '[DGS] Suspicious People'
+    length: 99.02
+  - name: '[DGS2] Clockwork People'
+    length: 64.78
+- category: === CHARACTER THEMES ===
+  songs:
+  - name: '[DD] Apollo Justice - I''m Fine!'
+    length: 178.8
+  - name: '[DGS] Asougi Kazuma - Samurai With a Mission'
+    length: 161.55
+  - name: '[DGS] Asougi Kazuma - Nocturne'
+    length: 187.99
+  - name: '[DGS] Asougi Kazuma - Heritage of the Samurai'
+    length: 263.02
+  - name: '[DGS2] Asougi Kazuma - A Grand Return'
+    length: 163.69
+  - name: '[DGS2] Asougi Kazuma - Grand Revival'
+    length: 179.26
+  - name: '[DD] Athena Cykes - Let''s Do This!'
+    length: 153.4
+  - name: '[DGS] Barok van Zieks - Grim Reaper of the Great Court'
+    length: 278.66
+  - name: '[DD] Bobby Fulbright - In Justice We Trust!'
+    length: 202.01
+  - name: '[AAI] Calisto Yew - Let Me Laugh at the Cool'
+    length: 188.91
+  - name: '[AAI] Cammy Meele - Good Niiight'
+    length: 117.27
+  - name: '[T&T] Dahlia Hawthorne - Distant Traces of Beauty'
+    length: 154.46
   - name: '[AA] Damon Gant - Swimming, Anyone'
-    length: 134
+    length: 133.64
+  - name: '[AAI2] Dane Gustavia - Brandished Flavor'
+    length: 199.29
+  - name: '[SoJ] Dhurke - A Dragon Never Yields'
+    length: 182.03
   - name: '[AA] Dick Gumshoe - It''s Detective Gumshoe!'
-    length: 134
+    length: 133.33
+  - name: '[AAI] Dick Gumshoe - I Can Do It When It Counts!'
+    length: 118.12
+  - name: '[CV] Don Paolo - The Master of Disguise'
+    length: 211.79
+  - name: '[T&T] Elise Deauxnim - Gentle Melody'
+    length: 162.06
+  - name: '[P4AU] Elizabeth - Battle For Everyone''s Souls'
+    length: 369.43
   - name: '[AA] Ema Skye - Turnabout Sisters'
-    length: 119
+    length: 118.96
   - name: '[AJ] Ema Skye - Scientific Detective'
-    length: 95
+    length: 94.86
+  - name: '[SoJ] Ema Skye - Scientific Detective'
+    length: 227.16
+  - name: '[PLvsAA] Espella Cantabella - Memories'
+    length: 158.45
+  - name: '[PLvsAA] Espella Cantabella - Truth'
+    length: 144.01
+  - name: '[JFA] Franziska von Karma - Great Revival'
+    length: 93.69
   - name: '[T&T] Furio Tigre - Swingin'' Tiger'
-    length: 118
+    length: 117.06
   - name: '[T&T] Furio Tigre - Tiger of Jazz'
-    length: 352
+    length: 351.95
+  - name: '[SoJ] Ga''ran Sigatar Khura''in - Ur Dihara! Ga''ran!'
+    length: 211.43
+  - name: '[DGS] Gina Lestrade - Gunshot from Downtown'
+    length: 123.78
   - name: '[T&T] Godot - The Fragrance of Dark Coffee'
-    length: 162
-- category: ===RINGTONES===
+    length: 161.1
+  - name: '[AAI2] Gregory Edgeworth - A Defense Attorney''s Knowledge'
+    length: 164.23
+  - name: '[DGS] Iris Watson - A Little Biographer'
+    length: 277.3
+  - name: '[DGS] Iris Watson - Bubbly Biographer'
+    length: 142.52
+  - name: '[AA] Jake Marshall - Detective From the Wild West'
+    length: 114.87
+  - name: '[AAI2] Jeffery Master - Sweet Happiness'
+    length: 148.8
+  - name: '[AAI2] John Marsh - Pointed Age'
+    length: 173.67
+  - name: '[AAI2] Justine Courtney - Goddess of Law'
+    length: 183.07
+  - name: '[AAI2] Katherine Hall - Sweet Dance'
+    length: 138.99
+  - name: '[AAI] Kay Faraday - The Great Truth Burglar'
+    length: 162.13
+  - name: '[AJ] Klavier Gavin - Guilty Love'
+    length: 107.51
+  - name: '[SoJ] Lady Kee''ra - The Guardian of Khura''in'
+    length: 183.8
+  - name: '[AJ] Lamiroir - Landscape Painter in Sound'
+    length: 178.0
+  - name: '[T&T] Larry Butz - When Something Smells, It''s Usually Me'
+    length: 130.84
+  - name: '[T&T] Luke Atmey - I Just Want Love'
+    length: 112.2
+  - name: '[Ani] Manfred von Karma - The Invincible Prosecutor'
+    length: 122.06
+  - name: '[AA] Marvin Grossberg - Age, Regret, Retribution'
+    length: 107.82
+  - name: '[P4AU] Margaret - Battle Hymn of the Soul'
+    length: 190.1
+  - name: '[T&T] Mask DeMasque - Pleeeeease Listen'
+    length: 111.18
+  - name: '[JFA] Maximillion Galactica - Fabulous!'
+    length: 31.85
+  - name: '[AA] Maya Fey - Turnabout Sisters'
+    length: 175.66
+  - name: '[JFA] Maya Fey - Turnabout Sisters'
+    length: 123.21
+  - name: '[SoJ] Maya Fey - Turnabout Sisters'
+    length: 176.18
+  - name: '[AA] Mia Fey - Turnabout Sisters (Ballad)'
+    length: 127.9
+  - name: '[DGS] Mikotoba Susato - Blooming Flower in the New World'
+    length: 165.67
+  - name: '[DGS] Mikotoba Susato - Moment of Truth'
+    length: 207.91
+  - name: '[JFA] Miles Edgeworth - Great Revival'
+    length: 95.84
+  - name: '[DD] Miles Edgeworth - Great Revival'
+    length: 190.45
+  - name: '[SoJ] Mr. Reus - The Masked Magician'
+    length: 154.91
+  - name: '[SoJ] Nahyuta Sahdmadhi - The Last Rites Prosecutor'
+    length: 218.43
+  - name: '[AAI2] Patricia Roland - Hugs and Kisses'
+    length: 215.64
+  - name: '[JFA] Pearl Fey - Together with Pearly'
+    length: 79.05
+  - name: '[DD] Pearl Fey - Together With Pearly'
+    length: 113.8
+  - name: '[DD] Phantom - UNKNOWN'
+    length: 317.54
+  - name: '[PLvsAA] Professor Layton - Layton''s Theme'
+    length: 101.28
+  - name: '[PLvsAA] Professor Layton - Layton''s Theme (Variation)'
+    length: 171.2
+  - name: '[AAI] Quercus Alba - The Enemy Who Surpasses the Law'
+    length: 208.44
+  - name: '[SoJ] Rayfa Padma Khura''in - The Unyielding Medium Princess'
+    length: 193.18
+  - name: '[AAI2] Raymond Shields - Joking Motive'
+    length: 311.19
+  - name: '[Ani] Redd White - Imperious President'
+    length: 107.04
+  - name: '[P4AU] Rise Kujikawa - Twinkle Star'
+    length: 175.94
+  - name: '[AAI2] Sebastian Debeste - Debeste Reasoning'
+    length: 184.96
+  - name: '[AAI2] Sebastian Debeste - Debeste Farewell'
+    length: 165.97
+  - name: '[JFA] Shelly de Killer - The Whim of a Murderous Gentleman'
+    length: 101.88
+  - name: '[DGS] Sherlock Holmes - The Great Detective of the Foggy Town'
+    length: 181.72
+  - name: '[AAI] Shi-Long Lang - Speak Up, Pup!'
+    length: 181.81
+  - name: '[DD] Simon Blackquill - Distorted Swordsmanship'
+    length: 139.3
+  - name: '[AAI2] Simon Keyes - The Man Who Masterminds The Game'
+    length: 208.96
+  - name: '[AAI2] Sirhan Dogen - Tone of an Assassin'
+    length: 171.73
+  - name: '[AA] The Blue Badger - I Want to Protect'
+    length: 88.18
+  - name: '[SoJ] The Holy Mother - The Teachings of Khura''in'
+    length: 136.32
+  - name: '[SoJ] The Plumed Punisher - Warrior of Neo Twilight Realm'
+    length: 137.31
+  - name: '[SoJ] The Revolutionaries - Defiant Dragons'
+    length: 217.77
+  - name: '[AA] The Steel Samurai - Warrior of Neo Olde Tokyo'
+    length: 132.62
+  - name: '[PLvsAA] The Storyteller - Penning the Past, Present and Future'
+    length: 92.92
+  - name: '[DGS] Tobias Gregson - The Enemy of Great Detective'
+    length: 156.84
+  - name: '[P4AU] Tohru Adachi - The Egocentric Police Dick'
+    length: 133.6
+  - name: '[AJ] Trucy Wright - Child of Jazz'
+    length: 308.47
+  - name: '[AJ] Trucy Wright - Child of Magic'
+    length: 104.27
+  - name: '[DD] Trucy Wright - Child of Magic'
+    length: 103.44
+  - name: '[AAI] Tyrell Badd - The Truth isn''t Sweet'
+    length: 184.46
+  - name: '[SoJ] Uendo Toneido - The Laughing Typhoon'
+    length: 151.38
+  - name: '[T&T] Victor Kudo - How Sad, the Melody of This War Song'
+    length: 119.71
+  - name: '[DD] Yuri Cosmos - Head of the Center of the Universe'
+    length: 219.79
+  - name: '[PLvsAA] Zacharias Barnham - The Sword of Labyrinthia'
+    length: 178.08
+  - name: '[AAI] Zinc Lablanc - Time is Money'
+    length: 92.38
+- category: === RINGTONES ===
   songs:
   - name: '[JFA] Ringtone - Toccata and Fugue'
-    length: 22
+    length: 21.77
   - name: '[JFA] Ringtone - Phoenix'
-    length: 46
+    length: 45.76
   - name: '[T&T] Ringtone - Godot'
-    length: 81
+    length: 80.61
   - name: '[AJ] Ringtone - Guilty Love'
-    length: 33
-- category: ===RELAXING MOMENT===
+    length: 32.66
+  - name: '[AAI2] Ringtone - Moozilla'
+    length: 105.59
+  - name: '[SoJ] Ringtone - Guitar''s Serenade'
+    length: 63.11
+- category: === MINIGAMES ===
   songs:
+  - name: '[JFA] Psyche Locks'
+    length: 111.31
+  - name: '[AJ] Psyche Locks'
+    length: 87.61
+  - name: '[AJ] Perceive - Surging Eyes'
+    length: 66.62
+  - name: '[DD] Psyche Locks'
+    length: 92.59
+  - name: '[DD] Mood Matrix (Moderato)'
+    length: 140.14
+  - name: '[DD] Mood Matrix (Allegro)'
+    length: 137.25
+  - name: '[DD] Thought Route'
+    length: 118.52
+  - name: '[SoJ] The Dance of Devotion'
+    length: 144.27
+  - name: '[SoJ] Divination Seance'
+    length: 180.6
+  - name: '[SoJ] Divination Seance (Variation)'
+    length: 92.16
+  - name: '[AAI] Logic - The Way to the Truth'
+    length: 216.86
+  - name: '[AAI] Little Thief'
+    length: 156.56
+  - name: '[AAI2] Little Thief'
+    length: 196.43
+  - name: '[AAI2] Logic Chess (Opening)'
+    length: 222.96
+  - name: '[AAI2] Logic Chess (Ending)'
+    length: 209.6  
+  - name: '[DR] Flashing Anagram'
+    length: 214.03
+  - name: '[DR2] HYPER P.T.A.'
+    length: 109.54
+  - name: '[DR] SUPER FINAL M.T.B.'
+    length: 129.18
+  - name: '[DR2] -CROSS SWORD-'
+    length: 171.84
+  - name: '[DR2] DIVE DRIVE'
+    length: 189.13
+- category: === BREAK ===
+  songs:
+  - name: '[T&T] Godot''s Jazz Blend'
+    length: 385.11  
+  - name: '[P3] Blues in Velvet Room'
+    length: 195.38
   - name: '[C] Also Sprach Brooks'
-    length: 122
+    length: 121.69
+  - name: '[B] In the Speak Easy'
+    length: 158.25
