@@ -1,1 +1,4 @@
-*.wip.yaml
+*
+!backgrounds.yaml
+!characters.yaml
+!music.yaml
