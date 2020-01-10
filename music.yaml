@@ -556,10 +556,14 @@
     length: 241.1
   - name: '[DR] Climax Return'
     length: 131.09
+  - name: '[DRV3] Climax Re-enactment'
+    length: 265
 - category: === REMINISCENCE ===
   songs:
   - name: '[AA] True Evening of Grief'
     length: 163.84
+  - name: '[AA] Light and Shadow of the Film Studio'
+    length: 78
   - name: '[AA] The DL-6 Incident'
     length: 137.17
   - name: '[AA] The SL-9 Incident'
@@ -1152,3 +1156,9 @@
     length: 121.69
   - name: '[B] In the Speak Easy'
     length: 158.25
+- category: === VOCAL ===
+  songs:
+  - name: '[DR3] DEAD OR LIE'
+    length: 267
+  - name: '[DR3] Recall THE END'
+    length: 263
