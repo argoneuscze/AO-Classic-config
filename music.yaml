@@ -418,6 +418,16 @@
     length: 137.38
   - name: '[DGS] Questioning (Allegro)'
     length: 177.19
+  - name: '[Z012] Questioning (Moderato)'
+    length: 160
+  - name: '[Z012] Questioning (Allegro)'
+    length: 228
+  - name: '[Z012] Confrontation (Moderato)'
+    length: 242
+  - name: '[Z012] Confrontation (Allegro)'
+    length: 252
+  - name: '[Z012] Confrontation (Presto)'
+    length: 154
 - category: === OBJECTION ===
   songs:
   - name: '[AA] Objection!'
@@ -526,6 +536,10 @@
     length: 126.13
   - name: '[DR3] High Speed Action'
     length: 97.16
+  - name: '[Z012] Pursuit'
+    length: 184
+  - name: '[Z012] Pursuit (Variation)'
+    length: 172
 - category: === THE TRUTH ===
   songs:
   - name: '[AA] Confess The Truth'
