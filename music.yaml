@@ -230,6 +230,8 @@
     length: 297.65  
   - name: '[P4] Mist'
     length: 235.74
+  - name: '[TT] Cool Beauty'
+    length: 206
 - category: === LOGIC ===
   songs:
   - name: '[AA] Logic and Tricks'
@@ -428,6 +430,18 @@
     length: 252
   - name: '[Z012] Confrontation (Presto)'
     length: 154
+  - name: '[GT] Fate Updated (Moderato)'
+    length: 76
+  - name: '[GT] Fate Updated (Variation - Allegro)'
+    length: 71
+  - name: '[20X6] Questioning (Moderato)'
+    length: 133
+  - name: '[20X6] Questioning (Allegro)'
+    length: 153
+  - name: '[TT] Face to Face (Moderato)'
+    length: 157
+  - name: '[TT] Mind and Machine (Allegro)'
+    length: 155
 - category: === OBJECTION ===
   songs:
   - name: '[AA] Objection!'
